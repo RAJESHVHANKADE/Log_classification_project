@@ -12,7 +12,7 @@ Modern applications generate thousands of log events every day.
 
 Operations and engineering teams often spend significant time reviewing logs to identify:
 
-* Application errors
+* Application errors 
 * Database failures
 * Authentication issues
 * Network connectivity problems
